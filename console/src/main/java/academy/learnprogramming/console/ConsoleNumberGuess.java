@@ -22,7 +22,8 @@ public class ConsoleNumberGuess {
 
     private final MessageGenerator messageGenerator;
 
-    // == constructors ==
+    // == constructor ==
+
     public ConsoleNumberGuess(Game game, MessageGenerator messageGenerator) {
         this.game = game;
         this.messageGenerator = messageGenerator;
