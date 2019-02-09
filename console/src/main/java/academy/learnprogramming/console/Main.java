@@ -19,7 +19,5 @@ public class Main {
 
         // close context (container)
         context.close();
-
-
     }
 }
